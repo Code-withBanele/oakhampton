@@ -989,6 +989,9 @@ function Footer({ onEnquire }: { onEnquire: () => void }) {
         <span>© {new Date().getFullYear()} Oakhampton Accommodation</span>
         <em>We look forward to welcoming you.</em>
         <span>East London · South Africa</span>
+        <a href="https://banele.dev" target="_blank" rel="noreferrer">
+          Powered by: banele.dev
+        </a>
       </div>
     </footer>
   );
