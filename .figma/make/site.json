@@ -1,0 +1,10 @@
+{
+  "description": "Explore Oakhampton’s East London bed and breakfast, compare room rates and amenities, view directions, and send an accommodation enquiry.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
